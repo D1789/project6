@@ -94,6 +94,7 @@ li {
   height: auto;
   margin-left: 145px;
   margin-top: 90px;
+  margin-bottom: 400px;
   padding-left: 5px;
   line-height: 8px;
   font-size: 14px;
@@ -112,6 +113,26 @@ li {
   display:inline-block;
   line-height: 20px;
   margin-top: -5px;
+}
+
+.related_searches {
+  margin-top: 50px;
+}
+
+#related_header {
+  font-size: 18px;
+}
+
+.related_table {
+  width: 600px;
+  height: 100px;
+}
+
+
+.related_link {
+  color: #1a0dab;
+  font-weight: bold;
+  font-size: 16px;
 }
 
 /* Footer Styles */
