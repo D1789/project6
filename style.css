@@ -4,6 +4,7 @@ body {
   font-family: arial;
   font-size: 13px;
   text-align: center;
+  min-width: 1500px;
 }
 
 a {
@@ -19,6 +20,7 @@ a {
   position: absolute;
   top: 0;
   width: 100%;
+  min-width: 1500px;
   height: 100px;
   margin-left: -10px;
 }
@@ -160,7 +162,6 @@ li {
 .ad_section {
   display: inline-block;
   position: relative;
-  margin-left: -100px;
   margin-top: 120px;
   width: 500px;
   height: 400px;
